@@ -1,4 +1,6 @@
-Markdown Version of Resume:
+(Download PDF version of resume above)
+
+Markdown version of resume:
 
 # Thomas Meehan
 
