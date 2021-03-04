@@ -45,14 +45,16 @@ and basic shapes. Developed with Kubernetes, Docker, Javascript, Flask, Tensorfl
 
 **Everett Public Schools Everett, MA**
 English-Learner Math Teacher _Aug 2017 - Present_
-+ Enhance student learning experience by implementing technology in the classroom.
-+ Makes educational decisions based on student data.
-+ Effectively communicates with parents and guardians to support student success.
++ Teach various math subjects to English Language Learners by implementing Spanish and Portuguese during lessons. Acquired the Sheltered English Immersion endorsement in 2018.
++ Enhanced student learning by pushing for the inclusion of computers in the classroom, and using educational tools
+such as Khan Academy, I-ready, and Prodigy Math
++ Work with other teachers and counselors to track and make educational decisions based on student data.
++ Effectively communicate with students, family, and school administration to support individual learning needs.
 
 **Homesite Insurance Boston, MA**
 Product Analyst _Apr 2016 - Jun 2017_
-+ Provided analysis and data validation using SAS.
-+ Queried databases using SQL.
-+ Automated department processes with VBA code for Microsoft Excel and PowerPoint.
++ Conducted reviews of rates, rules, underwriting, and product offerings. Summarized and presented findings to the Product Management team.
++ Developed processes and reports to track key business metrics, analyzed and interpreted data using SQL, and SAS.
++ Single-handedly automated a time consuming department process with VBA scripting of Microsoft Office products.
 
 
